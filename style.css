@@ -40,7 +40,7 @@ body {
     flex-grow: 1;
   }
   
-  .matrix__adding_wrapper {
+  .adding__wrapper {
     display: flex;
   }
   
